@@ -1,2 +1,0 @@
-# NetSense-Automated-Network-Insight-Resilience-Cisco-Internship
-NetSense simplifies enterprise network management by automatically generating topologies, identifying configuration errors, optimizing traffic flow, and accelerating troubleshooting. It minimizes downtime, enhances security, and provides real-time visibility, ensuring networks remain resilient and efficient with minimal manual intervention.
